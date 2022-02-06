@@ -8,7 +8,7 @@ A website that offers marketing options
 * CSS
 
 ## Website
-https://defhook.github.io/urban-octo-telegram/
+https://defhook.github.io/Horiseon-search-engine-splash-page/
 
 ## Contribution 
 Made with ❤️ by Alvin Badillo
